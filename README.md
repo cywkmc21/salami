@@ -227,3 +227,4 @@ SALAMI builds upon `pymatgen`. Please consider citing the foundational works:
 ### Associated Literature
 
 1. **Xie, W.; Deng, Z.; Liu, Z.; Famprikis, T.; Butler, K. T.; Canepa, P.** Effects of Grain Boundaries and Surfaces on Electronic and Mechanical Properties of Solid Electrolytes. *Advanced Energy Materials* **2024**, 2304230. [DOI: 10.1002/aenm.202304230](https://doi.org/10.1002/aenm.202304230).
+
